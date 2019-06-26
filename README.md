@@ -4,7 +4,7 @@
 
 Collecting Crystals: Game Web App
 
-DEMO: 
+DEMO: https://tylerckidd.github.io/Collecting-Crystals/
 
 ## Game Rules
 You will be given a random number at the start of the game.
