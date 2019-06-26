@@ -1,4 +1,5 @@
-![logo](crystal.gif)
+
+![img](assets/images/banner.png)
 
 # Project
 
@@ -21,4 +22,8 @@ Have fun!
 * HTML
 * CSS
 * JavaScript
+
+
+
+
 
