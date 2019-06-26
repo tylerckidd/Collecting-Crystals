@@ -3,7 +3,7 @@
 
 # Project
 
-Collecting Crystals: Game Web App
+Collecting Crystals: Game Web Application 
 
 DEMO: https://tylerckidd.github.io/Collecting-Crystals/
 
